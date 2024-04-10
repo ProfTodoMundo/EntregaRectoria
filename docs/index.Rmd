@@ -1,0 +1,124 @@
+---
+title: "Informe de actividades de la Administracion 2020-2024 la UACM"
+author: "Rectoria"
+date: "2020-2024"
+output:
+#  revealjs::revealjs_presentation:
+#    transition: slide
+#    slideNumber: true
+#    center: true
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    theme: united
+    highlight: tango
+    css: styles.css
+  word_document: default
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Informe de general gestion
+
+
+## PLAN DE TRABAJO DE LA RECTORIA 2020-2024
+
+## 2020
+
+## 2021
+
+## 2022
+
+## 2023
+
+## 2024
+
+
+
+# Comunicados
+
+# Videos
+
+# Entrevistas
+# Oferta Acdémica
+
+## 2020
+
+## 2021
+
+## 2022
+
+## 2023
+
+## 2024
+
+# Presupuesto de Ingresos
+
+## 2020
+
+## 2021
+
+## 2022
+
+## 2023
+
+## 2024
+
+# Presupuesto de Egresos
+
+## 2020
+
+## 2021
+
+## 2022
+
+## 2023
+
+## 2024
+
+
+# Trabajo Legislativo - Iniciativas enviadas
+
+## 2020
+
+## 2021
+
+## 2022
+
+## 2023
+
+## 2024
+
+# Documentos, informes  y diagnosticos elaborados
+## ANUIES
+## ANALISIS DE PROSPECTIVAS
+## MANUALES DE PROCEDIMIENTO
+## PROPUESTA DE ESTRUCTURA
+## ANALISIS DE GENERO
+## ENCUESTAS IAPA
+## DIAGNOSTICO DE BECAS
+# Asuntos destacados por coordinaciones
+
+# Administracion Central
+
+## Tema 1:
+
+## Tema 2:
+
+## Tema 3: 
+
+
+
+
+# Oficios enviados
+
+# COSAS POR HACER-TEMAS PENDIENTES-FUTURO
+
+# DONDE ESTA LA UNIVERSIDAD

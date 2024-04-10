@@ -24,101 +24,103 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Presentacion
 
-# Informe de general gestion
-
-
-## PLAN DE TRABAJO DE LA RECTORIA 2020-2024
-
-## 2020
-
-## 2021
-
-## 2022
-
-## 2023
-
-## 2024
+# Informe
+## Informe de general gestion
 
 
+### PLAN DE TRABAJO DE LA RECTORIA 2020-2024
 
-# Comunicados
+### 2020
 
-# Videos
+### 2021
 
-# Entrevistas
-# Oferta Acdémica
+### 2022
 
-## 2020
+### 2023
 
-## 2021
-
-## 2022
-
-## 2023
-
-## 2024
-
-# Presupuesto de Ingresos
-
-## 2020
-
-## 2021
-
-## 2022
-
-## 2023
-
-## 2024
-
-# Presupuesto de Egresos
-
-## 2020
-
-## 2021
-
-## 2022
-
-## 2023
-
-## 2024
-
-
-# Trabajo Legislativo - Iniciativas enviadas
-
-## 2020
-
-## 2021
-
-## 2022
-
-## 2023
-
-## 2024
-
-# Documentos, informes  y diagnosticos elaborados
-## ANUIES
-## ANALISIS DE PROSPECTIVAS
-## MANUALES DE PROCEDIMIENTO
-## PROPUESTA DE ESTRUCTURA
-## ANALISIS DE GENERO
-## ENCUESTAS IAPA
-## DIAGNOSTICO DE BECAS
-# Asuntos destacados por coordinaciones
-
-# Administracion Central
-
-## Tema 1:
-
-## Tema 2:
-
-## Tema 3: 
+### 2024
 
 
 
+## Comunicados
 
-# Oficios enviados
+## Videos
 
-# COSAS POR HACER-TEMAS PENDIENTES-FUTURO
+## Entrevistas
+## Oferta Acdémica
 
-# DONDE ESTA LA UNIVERSIDAD
+### 2020
+
+### 2021
+
+### 2022
+
+### 2023
+
+### 2024
+
+## Presupuesto de Ingresos
+
+### 2020
+
+### 2021
+
+### 2022
+
+### 2023
+
+### 2024
+
+## Presupuesto de Egresos
+
+### 2020
+
+### 2021
+
+### 2022
+
+### 2023
+
+### 2024
+
+
+## Trabajo Legislativo - Iniciativas enviadas
+
+### 2020
+
+### 2021
+
+### 2022
+
+### 2023
+
+### 2024
+
+## Documentos, informes  y diagnosticos elaborados
+### ANUIES
+### ANALISIS DE PROSPECTIVAS
+### MANUALES DE PROCEDIMIENTO
+### PROPUESTA DE ESTRUCTURA
+### ANALISIS DE GENERO
+### ENCUESTAS IAPA
+### DIAGNOSTICO DE BECAS
+## Asuntos destacados por coordinaciones
+
+## Administracion Central
+
+### Tema 1:
+
+### Tema 2:
+
+### Tema 3: 
+
+
+
+
+##Oficios enviados
+
+## COSAS POR HACER-TEMAS PENDIENTES-FUTURO
+
+## DONDE ESTA LA UNIVERSIDAD

@@ -1,0 +1,13 @@
+---
+title: "Balance Final"
+output: html_document
+date: "2024-04-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## COSAS POR HACER-TEMAS PENDIENTES-FUTURO
+
+## DONDE ESTA LA UNIVERSIDAD

@@ -1,0 +1,19 @@
+---
+title: "Coordinacinoes"
+output: html_document
+date: "2024-04-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Asuntos destacados por coordinaciones
+
+## Administracion Central
+
+### Tema 1:
+
+### Tema 2:
+
+### Tema 3: 

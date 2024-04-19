@@ -45,11 +45,14 @@ library(rvest)
 
 
 
-## Comunicados
+## [![Comunicados]](.pdf)
+*Fig. 1. CPM, Counts Per Million Plot*
+
 
 ## Videos
 
 ## Entrevistas
+
 ## Oferta Acdémica
 
 ### 2020
@@ -89,47 +92,17 @@ library(rvest)
 
 ## Trabajo Legislativo - Iniciativas enviadas
 
-### 2020
-
-### 2021
-
-### 2022
-
-### 2023
-
-### 2024
-
-#### Comedores 
-
-[![OFICIO A LA COMISIÓN DE ORGANIZACIÓN](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/OFICIOCU.png)](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/Oficio%20026-2024.pdf)
-
-[![OFICIO REITERATIVO A LA COMISIÓN DE ORGANIZACIÓN](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/OFICIOREITERATIVO.png)](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/Oficio%20Comedores_CU.pdf)
-
 
 
 ## Documentos, informes  y diagnosticos elaborados
-### ANUIES
-### ANALISIS DE PROSPECTIVAS
-### MANUALES DE PROCEDIMIENTO
-### PROPUESTA DE ESTRUCTURA
-### ANALISIS DE GENERO
-### ENCUESTAS IAPA
-### DIAGNOSTICO DE BECAS
+
+
 ## Asuntos destacados por coordinaciones
 
-## Administracion Central
-
-### Tema 1:
-
-### Tema 2:
-
-### Tema 3: 
 
 
 
 
-##Oficios enviados
 
-## COSAS POR HACER-TEMAS PENDIENTES-FUTURO
+## Balance
 
-## DONDE ESTA LA UNIVERSIDAD

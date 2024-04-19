@@ -1,0 +1,19 @@
+---
+title: "Documentos"
+output: html_document
+date: "2024-04-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Documentos, informes  y diagnosticos elaborados
+### ANUIES
+### ANALISIS DE PROSPECTIVAS
+### MANUALES DE PROCEDIMIENTO
+### PROPUESTA DE ESTRUCTURA
+### ANALISIS DE GENERO
+### ENCUESTAS IAPA
+### DIAGNOSTICO DE BECAS

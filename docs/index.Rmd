@@ -98,6 +98,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### 2024
 
+#### Comedores 
+
+[OFICIO A LA COMISION DE ORGANIZACION](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/Oficio%20026-2024.pdf)
+
+[OFICIO REITERATIVO A LA COMISION DE ORGANIZACION](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/Oficio%20Comedores_CU.pdf)
+
+
+
 ## Documentos, informes  y diagnosticos elaborados
 ### ANUIES
 ### ANALISIS DE PROSPECTIVAS

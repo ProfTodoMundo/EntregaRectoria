@@ -1,27 +1,18 @@
 ---
-title: "Oferta Academicoa"
+title: "Presentacion"
 output: html_document
-date: "2024-04-19"
+date: "2024-04-22"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Oferta Acdémica
-
-### 2020
-
-### 2021
-
-### 2022
-
-### 2023
-
-### 2024
-
-
-
+# Presentacion
+  
+  
+  
+  
 <style>
 .button-container {
   display: grid;
@@ -49,9 +40,15 @@ knitr::opts_chunk$set(echo = TRUE)
   <button onclick="location.href='Comunicados.html'">Comunicados</button>
   <button onclick="location.href='Videos.html'">Videos</button>
   <button onclick="location.href='Entrevistas.html'">Entrevistas</button>
+  <button onclick="location.href='OfertaAcademica.html'">Oferta Académica</button>
   <button onclick="location.href='Presupuesto.html'">Presupuesto</button>
   <button onclick="location.href='TrabajoLegislativo.html'">Trabajo Legislativo</button>
   <button onclick="location.href='Documentos.html'">Documentos</button>
   <button onclick="location.href='Coordinaciones.html'">Coordinaciones</button>
   <button onclick="location.href='Balance.html'">Balance</button>
 </div>
+
+
+
+
+

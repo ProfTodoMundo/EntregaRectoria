@@ -25,84 +25,79 @@ knitr::opts_chunk$set(echo = TRUE)
 library(rvest)
 ```
 
-# Presentacion
+# [Presentacion](Presentacion.html)
 
-# Informe
-## Informe de general gestion
+# [Informe](Informes.html)
 
-
-### PLAN DE TRABAJO DE LA RECTORIA 2020-2024
-
-### 2020
-
-### 2021
-
-### 2022
-
-### 2023
-
-### 2024
+<button onclick="location.href='Informes.html'">Informe</button>
 
 
 
-## [![Comunicados]](.pdf)
-*Fig. 1. CPM, Counts Per Million Plot*
+# [Comunicados](Comunicados.html)
+<button onclick="location.href='Comunicados.html'">Comunicados</button>
 
+# [Videos](Videos.html)
+<button onclick="location.href='Videos.html'">Videos</button>
 
-## Videos
+# [Entrevistas](Entrevistas.html)
+<button onclick="location.href='Entrevistas.html'">Entrevistas</button>
 
-## Entrevistas
+# [Oferta Acdémica](OfertaAcademica.html)
+<button onclick="location.href='OfertaAcademica.html'">Oferta Académica</button>
 
-## Oferta Acdémica
+# [Presupuesto de Ingresos](Presupuesto.html)
+<button onclick="location.href='Presupuesto.html'">Presupuesto de Ingresos</button>
 
-### 2020
+# [Trabajo Legislativo - Iniciativas enviadas](TrabajoLegislativo.html)
+<button onclick="location.href='TrabajoLegislativo.html'">Trabajo Legislativo - Iniciativas enviadas</button>
 
-### 2021
+# [Documentos, informes  y diagnosticos elaborados](Documentos.html)
+<button onclick="location.href='Documentos.html'">Documentos, informes y diagnósticos elaborados</button>
 
-### 2022
+# [Asuntos destacados por coordinaciones](Coordinaciones.html)
+<button onclick="location.href='Coordinaciones.html'">Asuntos destacados por coordinaciones</button>
 
-### 2023
-
-### 2024
-
-## Presupuesto de Ingresos
-
-### 2020
-
-### 2021
-
-### 2022
-
-### 2023
-
-### 2024
-
-## Presupuesto de Egresos
-
-### 2020
-
-### 2021
-
-### 2022
-
-### 2023
-
-### 2024
-
-
-## Trabajo Legislativo - Iniciativas enviadas
-
-
-
-## Documentos, informes  y diagnosticos elaborados
-
-
-## Asuntos destacados por coordinaciones
+# [Balance](Balance.html)
+<button onclick="location.href='Balance.html'">Balance</button>
 
 
 
 
 
+<style>
+.button-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
+  grid-gap: 15px; /* Espacio entre botones */
+}
 
-## Balance
+.button-container button {
+  width: 115px; /* Cambia el tamaño de los botones */
+  height: 115px;
+  padding: 15px;
+  font-size: 12px;
+  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
+  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
 
+.button-container button:hover {
+  background-color: #FF6347; /* Cambia el color de fondo al pasar el ratón sobre los botones */
+}
+</style>
+
+<div class="button-container">
+  <button onclick="location.href='Inicio.html'">Inicio</button>
+  <button onclick="location.href='Informes.html'">Informe</button>
+  <button onclick="location.href='Comunicados.html'">Comunicados</button>
+  <button onclick="location.href='Videos.html'">Videos</button>
+  <button onclick="location.href='Entrevistas.html'">Entrevistas</button>
+  <button onclick="location.href='OfertaAcademica.html'">Oferta Académica</button>
+  <button onclick="location.href='Presupuesto.html'">Presupuesto de Ingresos</button>
+  <button onclick="location.href='TrabajoLegislativo.html'">Trabajo Legislativo - Iniciativas enviadas</button>
+  <button onclick="location.href='Documentos.html'">Documentos, informes y diagnósticos elaborados</button>
+  <button onclick="location.href='Coordinaciones.html'">Asuntos destacados por coordinaciones</button>
+  <button onclick="location.href='Balance.html'">Balance</button>
+</div>

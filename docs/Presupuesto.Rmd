@@ -31,3 +31,39 @@ knitr::opts_chunk$set(echo = TRUE)
 ### 2023
 
 ### 2024
+
+
+
+<style>
+.button-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
+  grid-gap: 5px; /* Espacio entre botones */
+}
+
+.button-container button {
+  font-size: 8px;
+  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
+  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-container button:hover {
+  background-color: #FF6347; /* Cambia el color de fondo al pasar el ratón sobre los botones */
+}
+</style>
+
+<div class="button-container">
+  <button onclick="location.href='Inicio.html'">Inicio</button>
+  <button onclick="location.href='Informes.html'">Informe</button>
+  <button onclick="location.href='Comunicados.html'">Comunicados</button>
+  <button onclick="location.href='Videos.html'">Videos</button>
+  <button onclick="location.href='Entrevistas.html'">Entrevistas</button>
+  <button onclick="location.href='OfertaAcademica.html'">Oferta Académica</button>
+  <button onclick="location.href='TrabajoLegislativo.html'">Trabajo Legislativo</button>
+  <button onclick="location.href='Documentos.html'">Documentos</button>
+  <button onclick="location.href='Coordinaciones.html'">Coordinaciones</button>
+  <button onclick="location.href='Balance.html'">Balance</button>
+</div>

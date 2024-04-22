@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### 2021
 
-
-
 <style>
 .button-container {
   display: grid;
@@ -26,13 +24,17 @@ knitr::opts_chunk$set(echo = TRUE)
 }
 
 .button-container button {
-  font-size: 8px;
-  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
+  background-color:  ##FFFF33; /* Cambia el color de fondo de los botones a naranja */
   color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  width: 115px; /* Cambia el tamaño de los botones */
+  height: 115px;
+  padding: 15px;
+  font-size: 16px;
 }
+
 
 .button-container button:hover {
   background-color: #FF6347; /* Cambia el color de fondo al pasar el ratón sobre los botones */
@@ -40,16 +42,16 @@ knitr::opts_chunk$set(echo = TRUE)
 </style>
 
 <div class="button-container">
-  <button onclick="location.href='Presentacion.pdf'">Presentación</button>
-  <button onclick="location.href='Rectoría.pdf'">Rectoria</button>
-  <button onclick="location.href='Transparencia.pdf'">Transparencia</button>
-  <button onclick="location.href='03_SEcrGeneral 2021-44-46.pdf'">Secretaría General</button>
-  <button onclick="location.href='Entrevistas.html'">Planeacion</button>
-  <button onclick="location.href='OfertaAcademica.html'">Coordinación Académica</button>
-  <button onclick="location.href='TrabajoLegislativo.html'">DCyEU</button>
-  <button onclick="location.href='Documentos.html'">Certificación</button>
-  <button onclick="location.href='Coordinaciones.html'">CSE</button>
-  <button onclick="location.href='Balance.html'">Obras</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/00_Presentaci%C3%B3n%202021-01-18.pdf'">Presentación</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/01_Rector%C3%ADa%202021-19-41.pdf'">Rectoria</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/02_Transparencia%202021-42-43.pdf'">Transparencia</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/03_SEcrGeneral%202021-44-46.pdf'">Secretaría General</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/04_Planeaci%C3%B3n%202021%E2%80%9347-48.pdf'">Planeacion</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/05_CoordAcadem%202021-49-52.pdf'">Coordinación Académica</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/06_DCyEU%202021-53-67.pdf'">DCyEU</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/07_CoordCertif%202021-68-78.pdf'">Certificación</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/08_CoordServEStud-2021-79-85.pdf'">CSE</button>
+  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/09_CoordObras-2021-86-88.pdf'">Obras</button>
   <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/10_CoordServAdmon-2021-89-127.pdf'">Servicios Administrativos</button>
 </div>
 

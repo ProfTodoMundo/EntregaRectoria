@@ -1,5 +1,5 @@
 ---
-title: "Coordinacinoes"
+title: "Coordinaciones"
 output: html_document
 date: "2024-04-19"
 ---
@@ -41,7 +41,7 @@ knitr::opts_chunk$set(echo = TRUE)
 </style>
 
 <div class="button-container">
-  <button onclick="location.href='index'">Inicio</button>
+  <button onclick="location.href='index.html'">Inicio</button>
   <button onclick="location.href='Presentacion.html'">Presentacion</button>  
   <button onclick="location.href='Informes.html'">Informe</button>
   <button onclick="location.href='Videos.html'">Videos</button>

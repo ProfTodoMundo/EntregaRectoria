@@ -24,9 +24,9 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Comedores 
 
 
-[![OFICIO A LA COMISIÓN DE ORGANIZACIÓN](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/OFICIOCU.png)](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/Oficio%20026-2024.pdf)
+[OFICIO A LA COMISIÓN DE ORGANIZACIÓN]()
 
-[![OFICIO REITERATIVO A LA COMISIÓN DE ORGANIZACIÓN](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/OFICIOREITERATIVO.png)](https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/COMEDORES/Oficio%20Comedores_CU.pdf)
+[OFICIO REITERATIVO A LA COMISIÓN DE ORGANIZACIÓN]()
 
 
 

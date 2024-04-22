@@ -40,19 +40,18 @@ knitr::opts_chunk$set(echo = TRUE)
   background-color: #FF6347; /* Cambia el color de fondo al pasar el ratón sobre los botones */
 }
 </style>
-
 <div class="button-container">
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/00_Presentaci%C3%B3n%202021-01-18.pdf'">Presentación</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/01_Rector%C3%ADa%202021-19-41.pdf'">Rectoria</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/02_Transparencia%202021-42-43.pdf'">Transparencia</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/03_SEcrGeneral%202021-44-46.pdf'">Secretaría General</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/04_Planeaci%C3%B3n%202021%E2%80%9347-48.pdf'">Planeacion</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/05_CoordAcadem%202021-49-52.pdf'">Coordinación Académica</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/06_DCyEU%202021-53-67.pdf'">DCyEU</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/07_CoordCertif%202021-68-78.pdf'">Certificación</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/08_CoordServEStud-2021-79-85.pdf'">CSE</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/09_CoordObras-2021-86-88.pdf'">Obras</button>
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/INFORMESRECTORIA/INFORMES/10_CoordServAdmon-2021-89-127.pdf'">Servicios Administrativos</button>
+  <button onclick="location.href='00_Presentacion 2021-01-18'">Presentación</button>
+  <button onclick="location.href=''">Rectoría</button>
+  <button onclick="location.href=''">Transparencia</button>
+  <button onclick="location.href=''">Secretaría General</button>
+  <button onclick="location.href=''">Planeación</button>
+  <button onclick="location.href=''">Coordinación Académica</button>
+  <button onclick="location.href=''">DCyEU</button>
+  <button onclick="location.href=''">Certificación</button>
+  <button onclick="location.href=''">CSE</button>
+  <button onclick="location.href=''">Obras</button>
+  <button onclick="location.href=''">Servicios Administrativos</button>
 </div>
 
 

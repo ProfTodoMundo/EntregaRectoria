@@ -35,7 +35,7 @@ Aqui van los comunicados
 </style>
 
 <div class="button-container">
-  <button onclick="location.href='https://github.com/ProfTodoMundo/EntregaRectoria/blob/main/docs/Comunicados.html'">Inicio</button>
+  <button onclick="location.href='Inicio.html'">Inicio</button>
   <button onclick="location.href='Informes.html'">Informe</button>
   <button onclick="location.href='Videos.html'">Videos</button>
   <button onclick="location.href='Entrevistas.html'">Entrevistas</button>

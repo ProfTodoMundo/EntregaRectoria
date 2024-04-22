@@ -12,8 +12,21 @@ output:
     toc_float: true
     toc_depth: 3
     code_folding: show
-    theme: united
-    highlight: tango
+    #theme: lumen
+    #theme: cosmo
+    #theme: darkly
+    theme: flatly
+    #theme: journal
+    #theme: paper
+    #theme: readable
+    #theme: sandstone
+    #theme: simplex
+    #theme: spacelab
+    #theme: yeti
+    #theme: cerulean
+    #theme: bootstrap
+    #highlight: tango
+    #layout: default
     css: styles.css
   word_document: default
 ---

@@ -1,7 +1,34 @@
 ---
 title: "Trabajo Legislativo"
-output: html_document
 date: "2024-04-19"
+output:
+#  revealjs::revealjs_presentation:
+#    transition: slide
+#    slideNumber: true
+#    center: true
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    #theme: lumen
+    #theme: cosmo
+    #theme: darkly
+    theme: flatly
+    #theme: journal
+    #theme: paper
+    #theme: readable
+    #theme: sandstone
+    #theme: simplex
+    #theme: spacelab
+    #theme: yeti
+    #theme: cerulean
+    #theme: bootstrap
+    #highlight: tango
+    #layout: default
+#    css: styles.css
+
+
 ---
 
 ```{r setup, include=FALSE}
@@ -9,10 +36,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Trabajo Legislativo - Iniciativas enviadas
+# Trabajo Legislativo - Iniciativas enviadas
 
-#### Comedores 
+## [COTECIAD]()
 
+## [Comité para la Transversalización de las Acciones de Género en la UACM]()
+
+## [Comité de Administración de Riesgos y Evaluación del Control Institucional]()
+
+## [Comité del Programa de la Atención de las Personas con Discapacidad de la Universidad Autónoma de la Ciudad de México]()
+
+
+## Comedores 
 
 [OFICIO A LA COMISIÓN DE ORGANIZACIÓN]()
 

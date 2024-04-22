@@ -28,10 +28,7 @@ library(rvest)
 # [Presentacion](Presentacion.html)
 
 # [Informe](Informes.html)
-
 <button onclick="location.href='Informes.html'">Informe</button>
-
-
 
 # [Comunicados](Comunicados.html)
 <button onclick="location.href='Comunicados.html'">Comunicados</button>

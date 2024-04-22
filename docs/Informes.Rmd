@@ -74,7 +74,7 @@ knitr::opts_chunk$set(echo = TRUE)
 }
 
 .button-container button {
-  font-size: 8px;
+  font-size: 12px;
   background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
   color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
   border: none;

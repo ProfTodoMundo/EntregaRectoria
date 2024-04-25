@@ -82,6 +82,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="button-container">
   <button onclick="location.href='index.html'">Inicio</button>
   <button onclick="location.href='Presentacion.html'">Presentacion</button>
+  <button onclick="location.href='Vinculacion.html'">Vinculacion</button>
   <button onclick="location.href='Comunicados.html'">Comunicados</button>
   <button onclick="location.href='Videos.html'">Videos</button>
   <button onclick="location.href='Entrevistas.html'">Entrevistas</button>

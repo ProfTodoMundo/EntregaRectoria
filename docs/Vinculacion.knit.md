@@ -1,16 +1,58 @@
 ---
-title: "Balance Final"
-output: html_document
-date: "2024-04-19"
+title: "Vinculacion"
+date: "2024-04-22"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    #theme: lumen
+    #theme: cosmo
+    #theme: darkly
+    #theme: flatly
+    #theme: journal
+    #theme: paper
+    #theme: readable
+    #theme: sandstone
+    #theme: simplex
+    theme: spacelab
+    #theme: yeti
+    #theme: cerulean
+    #theme: bootstrap
+    #highlight: tango
+    #layout: default
+    #css: styles.css
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## COSAS POR HACER-TEMAS PENDIENTES-FUTURO
 
-## DONDE ESTA LA UNIVERSIDAD
+# Informe general de gestion
+
+
+# 2020
+
+# 2021
+
+<button onclick="'">BOTON 1</button>
+
+<button onclick="'">BOTON 2</button>
+
+
+
+# 2022
+<button onclick="'">BOTON 1</button>
+
+<button onclick="'">BOTON 2</button>
+
+
+# 2023
+<button onclick="'">BOTON 1</button>
+
+<button onclick="'">BOTON 2</button>
+
+# 2024
 
 
 
@@ -22,8 +64,8 @@ knitr::opts_chunk$set(echo = TRUE)
 }
 
 .button-container button {
-  font-size: 8px;
-  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
+  font-size: 12px;
+  background-color:  #FFFF99; /* Cambia el color de fondo de los botones a naranja */
   color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
   border: none;
   border-radius: 5px;
@@ -37,12 +79,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="button-container">
   <button onclick="location.href='index.html'">Inicio</button>
-  <button onclick="location.href='Presentacion.html'">Presentacion</button>  
-  <button onclick="location.href='Informes.html'">Informe</button>
-  <button onclick="location.href='Comunicados.html'">Comunicados</button>
+  <button onclick="location.href='Presentacion.html'">Presentacion</button>
   <button onclick="location.href='Vinculacion.html'">Vinculacion</button>
+  <button onclick="location.href='Comunicados.html'">Comunicados</button>
   <button onclick="location.href='Videos.html'">Videos</button>
   <button onclick="location.href='Entrevistas.html'">Entrevistas</button>
+  <button onclick="location.href='OfertaAcademica.html'">Oferta Académica</button>
   <button onclick="location.href='Presupuesto.html'">Presupuesto</button>
   <button onclick="location.href='TrabajoLegislativo.html'">Trabajo Legislativo</button>
   <button onclick="location.href='Documentos.html'">Documentos</button>

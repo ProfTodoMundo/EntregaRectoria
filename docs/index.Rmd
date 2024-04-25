@@ -47,6 +47,9 @@ library(rvest)
 # [Comunicados](Comunicados.html)
 <button onclick="location.href='Comunicados.html'">Comunicados</button>
 
+# [Vinculacion](Vinculacion.html)
+<button onclick="location.href='Vinculacion.html'">Vinculacion</button>
+
 # [Videos](Videos.html)
 <button onclick="location.href='Videos.html'">Videos</button>
 

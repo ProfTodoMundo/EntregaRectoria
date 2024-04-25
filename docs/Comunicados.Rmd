@@ -33,6 +33,9 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+library(png)
+
 setwd("~/Desktop/MiGithub/EntregaRectoria/docs/")
 ```
 
@@ -40,9 +43,17 @@ Aqui van los comunicados
 
 ## 2020
 
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/pSBjMRocQqMSfny'">Calendario Escolar, 2020</button>
 
-[![Calendario Escolar, 2020](INFORMESRECTORIA/COMUNICADOS/CALENDARIOESCOLAR06JUL20.jpeg)](/COMUNICADOS/CALENDARIOESCOLAR06JUL20.jpeg)
-*Fig. 1. CPM, Counts Per Million Plot*
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/SW4SWTDNSkofHkk'">Calendario Escolar Modificado 2020</button>
+
+
+- [<code>Calendario Escolar, 2020</code>](https://cu-nuberectoria.uacm.edu.mx/index.php/s/pSBjMRocQqMSfny)
+
+- [<code>Calendario Escolar Modificado, 2020</code>](https://cu-nuberectoria.uacm.edu.mx/index.php/s/SW4SWTDNSkofHkk)
+
+
+
 
 ## 2021
 

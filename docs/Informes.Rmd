@@ -1,138 +1,118 @@
 ---
 title: "Informe de Gestion"
-output: html_document
 date: "2024-04-22"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    #theme: lumen
+    #theme: cosmo
+    #theme: darkly
+    #theme: flatly
+    #theme: journal
+    #theme: paper
+    #theme: readable
+    theme: sandstone
+    #theme: simplex
+    #theme: spacelab
+    #theme: yeti
+    #theme: cerulean
+    #theme: bootstrap
+    #highlight: tango
+    #layout: default
+    #css: styles.css
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Informe de general gestion
+# Informe general de gestion
 
-### PLAN DE TRABAJO DE LA RECTORIA 2020-2024
+# PLAN DE TRABAJO DE LA RECTORIA 2020-2024
 
-### 2020
+# 2020
 
-### 2021
+# 2021
 
-<style>
-.button-container {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
-  grid-gap: 5px; /* Espacio entre botones */
-}
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/SrobzsScgdwznyo'">PRESENTACION</button>
 
-.button-container button {
-  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
-  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  width: 115px; /* Cambia el tamaño de los botones */
-  height: 115px;
-  padding: 15px;
-  font-size: 16px;
-}
 
-.button-container button:hover {
-  background-color: #FF6347; /* Cambia el color de fondo al pasar el ratón sobre los botones */
-}
-</style>
-<div class="button-container">
-  <button onclick="location.href=''">Presentación</button>
-  <button onclick="location.href=''">Rectoría</button>
-  <button onclick="location.href=''">Transparencia</button>
-  <button onclick="location.href=''">Secretaría General</button>
-  <button onclick="location.href=''">Planeación</button>
-  <button onclick="location.href=''">Coordinación Académica</button>
-  <button onclick="location.href=''">DCyEU</button>
-  <button onclick="location.href=''">Certificación</button>
-  <button onclick="location.href=''">CSE</button>
-  <button onclick="location.href=''">Obras</button>
-  <button onclick="location.href=''">Servicios Administrativos</button>
-</div>
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/58sZbmi8mJxBTeZ'">RECTORIA</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/MoWt8dBSmA2njGq'">TRANSPARENCIA</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/ZrcrRExnTS8CMEX'">SECRETARIA GENERAL</button>
+
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/r9Gf3sYQcqseibX'">PLANEACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/gcQjqrQsk5QTjTo'">COORDINACION ACADEMIA</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/iFPCTDT9kHknx96'">DIFUSION CULTURAL</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/TrKy6BREHDRxTzb'">CERTIFICACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/rnaDCsKoZxQYGWx'">SERVICIOS ESTUDIANTILES</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/We3eGgqoNK6oFQ7'">OBRAS</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/FHi8zLjSC36dJgH'">SERVICIOS ADMINISTRATIVOS</button>
 
 
 
 
-### 2022
-<style>
-.button-container {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
-  grid-gap: 5px; /* Espacio entre botones */
-}
-
-.button-container button {
-  background-color:  #FFFF99; /* Cambia el color de fondo de los botones a naranja */
-  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  width: 115px; /* Cambia el tamaño de los botones */
-  height: 115px;
-  padding: 15px;
-  font-size: 16px;
-}
-
-.button-container button:hover {
-  background-color: #FFFF99; /* Cambia el color de fondo al pasar el ratón sobre los botones */
-}
-</style>
-<div class="button-container">
-  <button onclick="location.href=''">PRESENTACION</button>
-  <button onclick="location.href=''">EJE DOCENCIA</button>
-  <button onclick="location.href=''">EJE INVESTIGACION</button>
-  <button onclick="location.href=''">EJE DIFUSION</button>
-  <button onclick="location.href=''">EJE COOPERACION INSTITUCIONAL</button>
-  <button onclick="location.href=''">EJE AUTOGOBIERNO</button>
-  <button onclick="location.href=''">EJE GESTION</button>
-  <button onclick="location.href=''">EJE PLANEACION</button>
-  <button onclick="location.href=''">EJES TRANSVERSALES</button>
-  
-</div>
+# 2022
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/W633iaqg27E8sXD'">PRESENTACION</button>
 
 
-### 2023
-<style>
-.button-container {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
-  grid-gap: 5px; /* Espacio entre botones */
-}
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/bBpQQpxFT3f6dWG'">EJE DOCENCIA</button>
 
-.button-container button {
-  background-color:  #FFFF99; /* Cambia el color de fondo de los botones a naranja */
-  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  width: 115px; /* Cambia el tamaño de los botones */
-  height: 115px;
-  padding: 15px;
-  font-size: 16px;
-}
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/ZB3Gn9yaP9AWCqR'">EJE INVESTIGACION</button>
 
-.button-container button:hover {
-  background-color: #FFFF99; /* Cambia el color de fondo al pasar el ratón sobre los botones */
-}
-</style>
-<div class="button-container">
-  <button onclick="location.href=''">PRESENTACION</button>
-    <button onclick="location.href=''">RESUMEN EJECUTIVO</button>
-  <button onclick="location.href=''">EJE DOCENCIA</button>
-  <button onclick="location.href=''">EJE INVESTIGACION</button>
-  <button onclick="location.href=''">EJE DIFUSION</button>
-  <button onclick="location.href=''">EJE COOPERACION INSTITUCIONAL</button>
-  <button onclick="location.href=''">EJE AUTOGOBIERNO</button>
-  <button onclick="location.href=''">EJE GESTION</button>
-  <button onclick="location.href=''">EJE PLANEACION</button>
-  <button onclick="location.href=''">EJES TRANSVERSALES</button>
-  
-</div>
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/6QyPHEADLQi4kB6'">EJE DIFUSION</button>
 
-### 2024
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/fbfd9RyfzPdNZgL'">EJE COOPERACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/j5FbeZZZdSffLfj'">EJE AUTOGOBIERNO</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/zwdFRBkaKanbF9p'">EJE GESTION UNIVERSITARIA</button>
+
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/ymrwDcZbw5gFmGX'">EJE PLANEACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/9SKDiE8A6wfqNSX'">EJES TRANSVERSALES</button>
+
+
+# 2023
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/5knzT5rjMR8eMdo'">PRESENTACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/X5Wnstp9MHjKydx'">RESUMEN EJECUTIVO</button>
+
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/WQ4Ayrta9J2JKdf'">EJE DOCENCIA</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/JSQ2JMM6jFFDtqk'">EJE INVESTIGACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/JqTDToCA76G5TtT'">EJE DIFUSION</button>
+
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/9oy7BNC3NRpw7tB'">EJE COOPERACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/n5C5PtTbipDdnaM'">EJE AUTOGOBIERNO</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/WcaZ8FnPR5C4Czt'">EJE GESTION UNIVERSITARIA</button>
+
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/gobwgdYEyrG5gJG'">EJE PLANEACION</button>
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/RH3X4o4b4acCk7E'">EJES TRANSVERSALES</button>
+
+# 2024
 
 
 

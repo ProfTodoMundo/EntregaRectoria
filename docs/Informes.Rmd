@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 }
 
 .button-container button {
-  background-color:  ##FFFF33; /* Cambia el color de fondo de los botones a naranja */
+  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
   color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
   border: none;
   border-radius: 5px;
@@ -57,8 +57,80 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### 2022
+<style>
+.button-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
+  grid-gap: 5px; /* Espacio entre botones */
+}
+
+.button-container button {
+  background-color:  #FFFF99; /* Cambia el color de fondo de los botones a naranja */
+  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 115px; /* Cambia el tamaño de los botones */
+  height: 115px;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.button-container button:hover {
+  background-color: #FFFF99; /* Cambia el color de fondo al pasar el ratón sobre los botones */
+}
+</style>
+<div class="button-container">
+  <button onclick="location.href=''">PRESENTACION</button>
+  <button onclick="location.href=''">EJE DOCENCIA</button>
+  <button onclick="location.href=''">EJE INVESTIGACION</button>
+  <button onclick="location.href=''">EJE DIFUSION</button>
+  <button onclick="location.href=''">EJE COOPERACION INSTITUCIONAL</button>
+  <button onclick="location.href=''">EJE AUTOGOBIERNO</button>
+  <button onclick="location.href=''">EJE GESTION</button>
+  <button onclick="location.href=''">EJE PLANEACION</button>
+  <button onclick="location.href=''">EJES TRANSVERSALES</button>
+  
+</div>
+
 
 ### 2023
+<style>
+.button-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
+  grid-gap: 5px; /* Espacio entre botones */
+}
+
+.button-container button {
+  background-color:  #FFFF99; /* Cambia el color de fondo de los botones a naranja */
+  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 115px; /* Cambia el tamaño de los botones */
+  height: 115px;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.button-container button:hover {
+  background-color: #FFFF99; /* Cambia el color de fondo al pasar el ratón sobre los botones */
+}
+</style>
+<div class="button-container">
+  <button onclick="location.href=''">PRESENTACION</button>
+    <button onclick="location.href=''">RESUMEN EJECUTIVO</button>
+  <button onclick="location.href=''">EJE DOCENCIA</button>
+  <button onclick="location.href=''">EJE INVESTIGACION</button>
+  <button onclick="location.href=''">EJE DIFUSION</button>
+  <button onclick="location.href=''">EJE COOPERACION INSTITUCIONAL</button>
+  <button onclick="location.href=''">EJE AUTOGOBIERNO</button>
+  <button onclick="location.href=''">EJE GESTION</button>
+  <button onclick="location.href=''">EJE PLANEACION</button>
+  <button onclick="location.href=''">EJES TRANSVERSALES</button>
+  
+</div>
 
 ### 2024
 
@@ -73,7 +145,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 .button-container button {
   font-size: 12px;
-  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
+  background-color:  #FFFF99; /* Cambia el color de fondo de los botones a naranja */
   color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
   border: none;
   border-radius: 5px;

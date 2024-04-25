@@ -1,14 +1,54 @@
 ---
 title: "Comunicados"
-output: html_document
 date: "2024-04-19"
+output:
+#  revealjs::revealjs_presentation:
+#    transition: slide
+#    slideNumber: true
+#    center: true
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    #theme: lumen
+    #theme: cosmo
+    #theme: darkly
+    theme: flatly
+    #theme: journal
+    #theme: paper
+    #theme: readable
+    #theme: sandstone
+    #theme: simplex
+    #theme: spacelab
+    #theme: yeti
+    #theme: cerulean
+    #theme: bootstrap
+    #highlight: tango
+    #layout: default
+#    css: styles.css
+
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+setwd("~/Desktop/MiGithub/EntregaRectoria/docs/")
 ```
 
 Aqui van los comunicados
+
+## 2020
+
+
+[![Calendario Escolar, 2020](INFORMESRECTORIA/COMUNICADOS/CALENDARIOESCOLAR06JUL20.jpeg)](/COMUNICADOS/CALENDARIOESCOLAR06JUL20.jpeg)
+*Fig. 1. CPM, Counts Per Million Plot*
+
+## 2021
+
+## 2022
+
+## 2023
 
 ## Comunicados
 

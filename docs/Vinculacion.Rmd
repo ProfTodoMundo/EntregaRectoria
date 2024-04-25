@@ -33,7 +33,6 @@ knitr::opts_chunk$set(echo = TRUE)
 # Informe general de gestion
 En esta administración de la UACM se han retomado vigorosamente las relaciones y acciones de vinculación y cooperación con instituciones públicas y privadas, así como con organismos autónomos y especializados, nacionales e internacionales. La finalidad, dar a la universidad, a sus estudiantes y académicos, espacios de colaboración que potencien su proceso de formación y su trabajo de investigación. Los convenios que la Rectoría ha signado en esta gestión, son:
 
-
 ANUIES - Constancia de ingreso de la UACM a la Asociación Nacional de Universidades e Instituciones de Educación Superior de la República Mexicana, A.C. (ANUIES, A.C.), por acuerdo de su Asamblea General y con fundamento en los artículos Noveno y Décimo Cuarto, fracción V de su Estatuto. <button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/AHPzY5RRoLGc233'">Descargar</button>
 
 Asociación Asociación Sindical de Sobrecargos de Aviación de México, "ASSA de México” - Llevar a cabo el proyecto de investigación sobre condiciones laborales y de salud que presentan las personas agremiadas de ASSA. Dicho proyecto de investigación es encabezado por las profesoras de la UACM: Mtra. Claudia Alicia López Ortiz, Dra. Ma. Elena Durán Lizárraga y la Dra. Roselia Arminda Rosales Flores.	<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/sf39ZiAAqyPDMy5'">Descargar</button>

@@ -35,33 +35,75 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 
 library(png)
-
-setwd("~/Desktop/MiGithub/EntregaRectoria/docs/")
+setwd("~/Documents/GitHub/LicCienciaDatosbis")
+#setwd("~/Desktop/MiGithub/EntregaRectoria/docs/")
 ```
 
-Aqui van los comunicados
+# Comunicados Rectoria
 
 ## 2020
 
-<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/pSBjMRocQqMSfny'">Calendario Escolar, 2020</button>
-
-<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/SW4SWTDNSkofHkk'">Calendario Escolar Modificado 2020</button>
-
-
-- [<code>Calendario Escolar, 2020</code>](https://cu-nuberectoria.uacm.edu.mx/index.php/s/pSBjMRocQqMSfny)
-
-- [<code>Calendario Escolar Modificado, 2020</code>](https://cu-nuberectoria.uacm.edu.mx/index.php/s/SW4SWTDNSkofHkk)
-
-
-
+<button onclick="location.href=''">Primer Comunicado de la Rectoria, 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 10 junio 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 15 junio 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Plan de Contingencia), junio 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 26 junio 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 27 julio 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Magdalena Contreras), 27 julio 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 6 Agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 20 Agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 28 Agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Recomendaciones trabajo docente), agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Propuestas formativas para docentes y estudiantes), agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Lineamientos generales certificacion extraordinaria), agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Presentacion trabajos y resultados obtenidos), agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria (Guía acción institucional), agosto 2020</button>
+<button onclick="location.href=''">Infografía certificación - 1, agosto 2020</button>
+<button onclick="location.href=''">Infografía certificación - 2, agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 11 agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 18 agosto 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 01 septiembre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 28 septiembre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 05 octubre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 09 octubre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 14 octubre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 20 octubre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 13 noviembre 2020</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 07 diciembre 2020</button>
 
 ## 2021
 
-## 2022
+<button onclick="location.href=''">Comunicado de la Rectoria (Brigadas de Vacunación), 21 enero 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 21 enero 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 28 enero 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 10 febrero 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 17 marzo 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 19 marzo 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 21 abril 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 01 mayo 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 29 octubre 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 17 febrero 2021</button>
+<button onclick="location.href=''">Comunicado de la Rectoria, 23 abril 2021</button>
 
-## 2023
 
-## Comunicados
+# Comunicados Coordinaciones
+
+<button onclick="location.href=''">Comunicado Certificación, 06 julio 2020</button>
+<button onclick="location.href=''">Comunicado Certificación, 06 noviembre 2020</button>
+<button onclick="location.href=''">Comunicado Coordinación Académica, 17 febrero 2021</button>
+<button onclick="location.href=''">Comunicado Coordinación Certificación, 17 febrero 2021</button>
+<button onclick="location.href=''">Comunicado Coordinación Certificación (Estudiantes), 17 febrero 2021</button>
+<button onclick="location.href=''">Comunicado Informática - 2, 17 marzo 2021</button>
+<button onclick="location.href=''">Comunicado Comunicación, 17 marzo 2021</button>
+<button onclick="location.href=''">Comunicado Certificación, 05 mayo 2021</button>
+
+# Calendarios Escolares
+
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/pSBjMRocQqMSfny'">Calendario Escolar, 06 julio 2020</button>
+<button onclick="location.href='https://cu-nuberectoria.uacm.edu.mx/index.php/s/SW4SWTDNSkofHkk'">Calendario Escolar Modificado 2020</button>
+<button onclick="location.href=''">Calendario Escolar 2021</button>
+<button onclick="location.href=''">Calendario Escolar 2021 (modificaciones)</button>
+
 
 
 <style>

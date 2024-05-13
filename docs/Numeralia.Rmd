@@ -1,0 +1,112 @@
+---
+title: "Avances en la Rectoría"
+date: "Al 31 de mayo"
+output:
+#  revealjs::revealjs_presentation:
+#    transition: slide
+#    slideNumber: true
+#    center: true
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 3
+    code_folding: show
+    #theme: lumen
+    #theme: cosmo
+    #theme: darkly
+    #theme: flatly
+    #theme: journal
+    #theme: paper
+    #theme: readable
+    #theme: sandstone
+    #theme: simplex
+    #theme: spacelab
+    theme: yeti
+    #theme: cerulean
+    #theme: bootstrap
+    #highlight: tango
+    #layout: default
+#    css: styles.css
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+| Temas Administrativos | Temas Académicos | Temas Externos |
+|-----------------------|------------------|----------------|
+| Presupuesto           | Plazas Profesores| Presencia Activa en redes y organizaciones IES |
+| Auditorias            | Programa de Ciencias Ambientales | Convenios | 
+| Transparencia | Posgrados Estudios Semióticos| Magdalena Contreras| 
+| Programas y metas prespupuestales| Solicitudes Aspirantes | Casa Talavera | 
+| FODEBES|Aumento Nuevo Ingreso | Conde de Regla| 
+| Comedores| Posgrado Conacyt | Centro Vlady | 
+| COMSIA| ANUIES | Cátedra Dussel| 
+| PIDE| Servicio Social - mejoras | Programa UACM-COLMEX| 
+| Procedimientos | Titulación | Trayectorias Docentes | 
+| Código de Ética| Egreso |  Publicaciones (Existentes-actuales)| 
+| Contraloría| Diplomados |Imprenta - inversión | 
+| Baja de Bienes | Prácticas Profesionales | Diplomado peritajes  | 
+| Juicios obras inconclusas| Planes y Programas | Divulgación de la Ciencia | 
+| Denuncias Presentadas| Coloquio | Seminario Pensamiento Contemporáneo | 
+| Iniciativas CU -  Comités| Cátedras | Seminario Cuidados | 
+| Propuestas Reforma Sistema Universitario| Trayectorias Estudiantiles | Declaratoria Patrimonio Obra Vlady | 
+| Iniciativas CU - Ordinarias | Metros cuadrados adicionales en Casa Libertad | Enrique Semo| 
+| Reforzamiento estructural| Salones adicionales en Casa Libertad | Tres Enriques | 
+| Iniciativas CU - Estructuras| Página de Profesores | Participación Órganos Externos| 
+| Sesiones COMPLAN| Servicio Biblbioteca Estudiantes | Sistema DDHH-CDMX| 
+| Otorgamiento de Becas y apoyos institucionales| | Atención a Demandas cuidadoras |
+| | | Ate4nción Psicológica |
+| | | Promoción de la UACM en bachilleratos de la CDMX y zona conurbada|
+| | | Participación en Ferias Profesiográficas y de promoción del empleo|
+| | | Apertura del Nucleo Urbano de Bienestar Emocional (NUBE-SLT)|
+| | | Acciones de Prevención y atención a las adicciones|
+| | | Capacitació en Modelos de Atención y Prevención de Adicciones|
+| | | Diagnóstico sobre conductas de riesgo para materia de adicciones|
+| | | Encuesta sobre conductas de riesgo de salud mental y adicciones |
+| | | Equipamiento deportivo y habilitación|
+| | | Apoyo para Foros Académicos y Culturales y visitas y prácticas escolares|
+| | | Red Tejedoras|
+| | | Formación de las brigadas ángeles para prevención de suicidio|
+| | | Estadística de la población estudiantil|
+
+
+
+
+<style>
+.button-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr); /* Organiza en 3 columnas */
+  grid-gap: 5px; /* Espacio entre botones */
+}
+
+.button-container button {
+  font-size: 8px;
+  background-color:  #8B0000; /* Cambia el color de fondo de los botones a naranja */
+  color: #C0C0C0; /* Cambia el color del texto de los botones a gris plateado */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button-container button:hover {
+  background-color: #FF6347; /* Cambia el color de fondo al pasar el ratón sobre los botones */
+}
+</style>
+
+<div class="button-container">
+  <button onclick="location.href='index.html'">Inicio</button>
+  <button onclick="location.href='Presentacion.html'">Presentacion</button>
+  <button onclick="location.href='Informes.html'">Informe</button>
+  <button onclick="location.href='Vinculacion.html'">Vinculacion</button>
+  <button onclick="location.href='Comunicados.html'">Comunicados</button>
+  <button onclick="location.href='Videos.html'">Videos</button>
+  <button onclick="location.href='Entrevistas.html'">Entrevistas</button>
+  <button onclick="location.href='OfertaAcademica.html'">Oferta Académica</button>
+  <button onclick="location.href='Presupuesto.html'">Presupuesto</button>
+  <button onclick="location.href='Documentos.html'">Documentos</button>
+  <button onclick="location.href='Coordinaciones.html'">Coordinaciones</button>
+  <button onclick="location.href='Balance.html'">Balance</button>
+</div>

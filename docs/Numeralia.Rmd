@@ -59,8 +59,8 @@ knitr::opts_chunk$set(echo = TRUE)
 | **Sesiones COMPLAN**| **Servicio Biblbioteca Estudiantes** | Sistema DDHH-CDMX| 
 | **Otorgamiento de Becas y apoyos institucionales**| **Reglamento de Titulación**| Atención a Demandas cuidadoras |
 | **Cambio programa presupuestal** |**Incremento presupuesto a Investigación** | Atención Psicológica |
-| Reglamento de cambio de identidad | **Reglamento de Equivalencias** | Promoción de la UACM en bachilleratos de la CDMX y zona conurbada|
-| | Diagnòstico de Investigación| Participación en Ferias Profesiográficas y de promoción del empleo|
+| **Reglamento de cambio de identidad** | **Reglamento de Equivalencias** | Promoción de la UACM en bachilleratos de la CDMX y zona conurbada|
+| | **Diagnóstico de Investigación**| Participación en Ferias Profesiográficas y de promoción del empleo|
 | | | Apertura del Nucleo Urbano de Bienestar Emocional (NUBE-SLT)|
 | | | Acciones de Prevención y atención a las adicciones|
 | | | Capacitació en Modelos de Atención y Prevención de Adicciones|

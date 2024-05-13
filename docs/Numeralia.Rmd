@@ -37,30 +37,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 | Temas Administrativos | Temas Académicos | Temas Externos |
 |-----------------------|------------------|----------------|
-| Presupuesto           | Plazas Profesores| Presencia Activa en redes y organizaciones IES |
-| Auditorias            | Programa de Ciencias Ambientales | Convenios | 
-| Transparencia | Posgrados Estudios Semióticos| Magdalena Contreras| 
-| Programas y metas prespupuestales| Solicitudes Aspirantes | Casa Talavera | 
-| FODEBES|Aumento Nuevo Ingreso | Conde de Regla| 
-| Comedores| Posgrado Conacyt | Centro Vlady | 
-| COMSIA| ANUIES | Cátedra Dussel| 
-| PIDE| Servicio Social - mejoras | Programa UACM-COLMEX| 
-| Procedimientos | Titulación | Trayectorias Docentes | 
-| Código de Ética| Egreso |  Publicaciones (Existentes-actuales)| 
-| Contraloría| Diplomados |Imprenta - inversión | 
-| Baja de Bienes | Prácticas Profesionales | Diplomado peritajes  | 
-| Juicios obras inconclusas| Planes y Programas | Divulgación de la Ciencia | 
-| Denuncias Presentadas| Coloquio | Seminario Pensamiento Contemporáneo | 
-| Iniciativas CU -  Comités| Cátedras | Seminario Cuidados | 
-| Propuestas Reforma Sistema Universitario| Trayectorias Estudiantiles | Declaratoria Patrimonio Obra Vlady | 
-| Iniciativas CU - Ordinarias | Metros cuadrados adicionales en Casa Libertad | Enrique Semo| 
-| Reforzamiento estructural| Salones adicionales en Casa Libertad | Tres Enriques | 
-| Iniciativas CU - Estructuras| Página de Profesores | Participación Órganos Externos| 
-| Sesiones COMPLAN| Servicio Biblbioteca Estudiantes | Sistema DDHH-CDMX| 
-| Otorgamiento de Becas y apoyos institucionales| | Atención a Demandas cuidadoras |
-| | | Ate4nción Psicológica |
-| | | Promoción de la UACM en bachilleratos de la CDMX y zona conurbada|
-| | | Participación en Ferias Profesiográficas y de promoción del empleo|
+| **Presupuesto**           | **Plazas Profesores**| Presencia Activa en redes y organizaciones IES |
+| **Auditorias**            | **Programa de Ciencias Ambientales** | Convenios | 
+| **Transparencia** | **Posgrados Estudios Semióticos**| Magdalena Contreras| 
+| **Programas y metas prespupuestales**| **Solicitudes Aspirantes** | Casa Talavera | 
+| **FODEBES**|**Aumento Nuevo Ingreso** | Conde de Regla| 
+| **Comedores**| **Posgrado Conacyt** | Centro Vlady | 
+| **COMSIA**| **ANUIES** | Cátedra Dussel| 
+| **PIDE**| **Servicio Social - mejoras** | Programa UACM-COLMEX| 
+| **Procedimientos** | **Titulación** | Trayectorias Docentes | 
+| **Código de Ética**| **Egreso** |  Publicaciones (Existentes-actuales)| 
+| **Contraloría**| **Diplomados** |Imprenta - inversión | 
+| **Baja de Bienes** | **Prácticas Profesionales** | Diplomado peritajes  | 
+| **Juicios obras inconclusas**| **Planes y Programas** | Divulgación de la Ciencia | 
+| **Denuncias Presentadas**| **Coloquio** | Seminario Pensamiento Contemporáneo | 
+| **Iniciativas CU -  Comités**| **Cátedras** | Seminario Cuidados | 
+| **Propuestas Reforma Sistema Universitario**| **Trayectorias Estudiantiles** | Declaratoria Patrimonio Obra Vlady | 
+| **Iniciativas CU - Ordinarias** | **Metros cuadrados adicionales en Casa Libertad** | Enrique Semo| 
+| **Reforzamiento estructural**| **Salones adicionales en Casa Libertad** | Tres Enriques | 
+| **Iniciativas CU - Estructuras**| **Página de Profesores** | Participación Órganos Externos| 
+| **Sesiones COMPLAN**| **Servicio Biblbioteca Estudiantes** | Sistema DDHH-CDMX| 
+| **Otorgamiento de Becas y apoyos institucionales**| **Reglamento de Titulación**| Atención a Demandas cuidadoras |
+| **Cambio programa presupuestal** |**Incremento presupuesto a Investigación** | Atención Psicológica |
+| Reglamento de cambio de identidad | **Reglamento de Equivalencias** | Promoción de la UACM en bachilleratos de la CDMX y zona conurbada|
+| | Diagnòstico de Investigación| Participación en Ferias Profesiográficas y de promoción del empleo|
 | | | Apertura del Nucleo Urbano de Bienestar Emocional (NUBE-SLT)|
 | | | Acciones de Prevención y atención a las adicciones|
 | | | Capacitació en Modelos de Atención y Prevención de Adicciones|
@@ -71,6 +71,8 @@ knitr::opts_chunk$set(echo = TRUE)
 | | | Red Tejedoras|
 | | | Formación de las brigadas ángeles para prevención de suicidio|
 | | | Estadística de la población estudiantil|
+| | | Salas de lactancia|
+| | | Página de convenios|
 
 
 
